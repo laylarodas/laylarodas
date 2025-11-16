@@ -39,14 +39,15 @@ I value structure, clarity, and continuous improvement — both in code and in l
 |-------------|--------------|------|
 | 💻 **Java Projects** | OOP and data processing exercises from the Duke University specialization | Java |
 | 🧩 **DAM Coursework** | Exercises and assignments from modules such as Databases, Android, Cybersecurity, and Interface Design | Java, SQL, Android |
-| 🌐 **Rovedra S.L. Website** | Corporate website for a renovation company | WordPress |
+| 🌐 **Rovedra S.L. Website** | Corporate website developed with modern frontend technologies using Cursor AI to structure, build, and optimize components | React, Vite, Tailwind CSS, Vercel |
 | 🤖 **Machine Learning Notebooks** | Early experiments with regression and supervised learning | Python |
 
 ---
 
 ### 📈 Currently Working On
 - Building **QuickNotes**, an Android app for lightweight note-taking 📱  
-- Developing a **Spring Boot CRUD** project with database integration  
+- Developing a **Spring Boot CRUD** project with database integration
+- Rebuilding the **Rovedra S.L. corporate website** using modern frontend tech (**React, Vite, Tailwind CSS**) and deployed on **Vercel**, developed with Cursor AI
 - Creating a **Notion-based portfolio** (coming soon 🌿)  
 - Studying for the **AWS Developer certification (DVA-C02)**  
 - Preparing for my **English B2 certification**
