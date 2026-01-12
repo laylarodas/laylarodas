@@ -57,13 +57,9 @@ I value structure, clarity, and continuous improvement — both in code and in l
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laylarodas&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=laylarodas&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=laylarodas&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=laylarodas&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
