@@ -11,7 +11,9 @@
 <p align="center">
   <a href="https://github.com/laylarodas"><img src="https://img.shields.io/badge/GitHub-laylarodas-181717?style=flat&logo=github" alt="GitHub Badge"/></a>
   <a href="https://www.linkedin.com/in/laylarodas/"><img src="https://img.shields.io/badge/LinkedIn-Layla%20Rodas-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Notion-black?style=flat&logo=notion" alt="Notion Badge"/></a>
+  <a href="https://layla-portfolio-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=vercel" alt="Portfolio Website Badge"/>
+</a>
   <a href="mailto:rodas.layla@gmail.com"><img src="https://img.shields.io/badge/Email-rodas.layla%40gmail.com-D14836?style=flat&logo=gmail" alt="Gmail Badge"/></a>
 </p>
 
@@ -48,7 +50,6 @@ I value structure, clarity, and continuous improvement — both in code and in l
 - Building **QuickNotes**, an Android app for lightweight note-taking 📱  
 - Developing a **Spring Boot CRUD** project with database integration
 - Rebuilding the **Rovedra S.L. corporate website** using modern frontend tech (**React, Vite, Tailwind CSS**) and deployed on **Vercel**, developed with Cursor AI
-- Creating a **Notion-based portfolio** (coming soon 🌿)  
 - Studying for the **AWS Developer certification (DVA-C02)**  
 - Preparing for my **English B2 certification**
 
@@ -67,7 +68,9 @@ I value structure, clarity, and continuous improvement — both in code and in l
 <p align="center">
   <a href="https://www.linkedin.com/in/laylarodas/"><img src="https://img.shields.io/badge/LinkedIn-Layla%20Rodas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/laylarodas"><img src="https://img.shields.io/badge/GitHub-laylarodas-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://layla-portfolio-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
   <a href="mailto:rodas.layla@gmail.com"><img src="https://img.shields.io/badge/Gmail-rodas.layla%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
