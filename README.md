@@ -1,30 +1,26 @@
 <h1 align="center">Hi there 👋, I'm Layla Rodas</h1>
 
 <p align="center">
-  <b>Backend & ERP Developer</b><br>
-  🌍 Palma de Mallorca, Spain · Building integrations on <b>Dolibarr</b> & <b>SAP</b>
-</p>
-
-<p align="center">
-  <i>Accounting bridges · cost centers · document automation · enterprise ERP</i>
+  <b>Data & Backend Developer</b><br>
+  🌍 Palma de Mallorca, Spain · Business Data · ERP Integrations · Automation · SQL
 </p>
 
 <p align="center">
   <a href="https://github.com/laylarodas"><img src="https://img.shields.io/badge/GitHub-laylarodas-181717?style=flat&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/laylarodas/"><img src="https://img.shields.io/badge/LinkedIn-Layla%20Rodas-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://layla-portfolio-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=vercel" alt="Portfolio"/></a>
-  <a href="mailto:rodas.layla@gmail.com"><img src="https://img.shields.io/badge/Email-rodas.layla%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/laylarodas/"><img src="https://img.shields.io/badge/LinkedIn-Layla%20Rodas-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://layla-portfolio-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=vercel" alt="Portfolio Website Badge"/></a>
+  <a href="mailto:rodas.layla@gmail.com"><img src="https://img.shields.io/badge/Email-rodas.layla%40gmail.com-D14836?style=flat&logo=gmail" alt="Gmail Badge"/></a>
 </p>
 
 ---
 
 ## 🌱 About Me
 
-**DAM graduate** (Multiplatform Application Development) focused on **ERP engineering** — custom modules, integrations, and business workflows on platforms like Dolibarr.
+I'm finishing my **Higher Degree in Multiplatform Application Development (DAM)** in Palma de Mallorca, with practical experience building **ERP modules**, **data workflows**, **OCR automation**, and **business process integrations**.
 
-I design and ship custom modules for real workflows: accounting exports, cost-center (CECO) management, timesheets, and supplier invoice automation. I care about clear contracts (JSON schemas, ADRs), automated tests, and secure integrations—without over-exposing internal APIs.
+I work mostly with **SQL**, structured business data, validation pipelines, and reliable handoffs between systems — from document extraction to accounting exports and operational reporting.
 
-Outside PHP/Python: React/Vite frontends and Android (Compose).
+I'm especially interested in **data analytics**, **business intelligence**, and **cloud data platforms**, and I'm growing toward roles where backend engineering meets real business data.
 
 ---
 
@@ -32,21 +28,21 @@ Outside PHP/Python: React/Vite frontends and Android (Compose).
 
 | Area | Focus |
 |------|--------|
-| 🏢 **ERP (Dolibarr 22)** | Custom modules, extrafields, Docker dev environments |
-| 📊 **Accounting** | Fixed-width export to external accounting systems |
-| 💰 **CECO / costes** | Hierarchies, allocation rules, reporting |
-| 📄 **Automation** | Invoice pipelines, JSON schemas, signed email protocols (HMAC) |
+| 📊 **Business Data** | SQL, validation, transformation and reporting |
+| 🏢 **ERP Systems** | Dolibarr modules, workflows and integrations |
+| 📄 **Automation** | OCR pipelines, document processing and structured data extraction |
+| 📈 **Analytics** | Data exploration, dashboards and business intelligence |
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,docker,mysql,git,github,java,spring,react,ts,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,docker,git,github,react&theme=dark" />
 </p>
 
 <p align="center">
-  <b>Dolibarr</b> · pytest · PHPUnit · JSON Schema · MariaDB · Android · Vite · Tailwind
+  <b>Dolibarr</b> · SQL · JSON Schema · Pandas · Streamlit · Data Validation · pytest
 </p>
 
 ---
@@ -57,20 +53,17 @@ Outside PHP/Python: React/Vite frontends and Android (Compose).
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| 🏠 **Rovedra S.L.** | Corporate site in production (Mallorca) | React, Vite, Tailwind | [Live](https://reformasrovedra.es) · [Code](https://github.com/laylarodas/rovedrasl-website) |
-| 💼 **Portfolio** | Developer portfolio | React, Vite | [Live](https://layla-portfolio-zeta.vercel.app/) · [Code](https://github.com/laylarodas/layla-portfolio) |
-| 📱 **QuickNotes** | Lightweight Android notes app | Kotlin, Compose | [Code](https://github.com/laylarodas/quicknotes-android) |
-| ☕ **Notes API** | Spring Boot REST API + MySQL | Java, Spring Boot | [Code](https://github.com/laylarodas/notes-api-springboot) |
+| 🎵 **Spotify Data Analysis** | End-to-end analysis on a real 114K+ track dataset — cleaning, EDA, visualization, basic ML and Streamlit dashboard | Python, Pandas, Scikit-learn | [Code](https://github.com/laylarodas/spotify-data-analysis) |
 
-### 🏢 ERP & backend
+### 🏢 ERP & data
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **Supplier Invoice OCR** | PDF → structured data → JSON + HMAC → ERP via signed email (no public REST). 150+ tests | Python, PHP, Dolibarr | 🔒 Client work |
-| **A3 Export** | Validated invoices → fixed-width accounting file + XLSX reconciliation | PHP, Dolibarr 22 | 🔒 Client work |
-| **Costes (CECO)** | Cost centers, hierarchies, salary allocation, reports | PHP, MariaDB | 🔒 Client work |
-| **WeekTimesheet** | Weekly timesheets, approvals, billing from hours, PDFs | PHP, TCPDF | 🔒 Client work |
-| **EqControl** | Equipment inventory and lifecycle in ERP | PHP, Dolibarr | 🔒 Client work |
+| 📄 **Supplier Invoice OCR** | Automated invoice pipeline: OCR/LLM extraction, JSON validation and ERP integration | Python, SQL, Dolibarr | 🔒 Client work · [Case study](./portfolio-case-studies/supplier-invoice-ocr/README.md) |
+| 📊 **A3 Export** | Accounting data export from Dolibarr to A3 Asesor — validation, fixed-width files and Excel reconciliation | PHP, SQL, ERP | 🔒 Client work |
+| 🛠️ **EqControl** | Equipment and asset management — tracking business resources and operational data | PHP, SQL, Dolibarr | 🔒 Client work |
+| 👥 **Customer Management** | Customer records, assignments, contracts and related business workflows | PHP, SQL, ERP | 🔒 Client work |
+| 📈 **Commercial Management** | Commercial workflows, profitability views and sales-related business operations | PHP, SQL, ERP | 🔒 Client work |
 
 ---
 
@@ -78,19 +71,22 @@ Outside PHP/Python: React/Vite frontends and Android (Compose).
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| ☕ **Java** | OOP & data processing (Duke specialization) | Java | — |
-| 🎓 **DAM coursework** | DB, Android, security, UI | Java, SQL | — |
-| 🎬 **MovieHub** | Movie discovery app | Kotlin | [Code](https://github.com/laylarodas/MovieHub-Android) |
-| 🤖 **ML notebooks** | Regression & supervised learning | Python | — |
-| 🐳 **Odoo sandbox** | Second ERP stack (Docker) | Docker, Odoo | — |
+| 💼 **Portfolio** | Personal developer portfolio | React, Vite | [Live](https://layla-portfolio-zeta.vercel.app/) · [Code](https://github.com/laylarodas/layla-portfolio) |
+| 🏠 **Rovedra S.L.** | Corporate website in production (Mallorca) | React, Vite, Tailwind | [Live](https://reformasrovedra.es) · [Code](https://github.com/laylarodas/rovedrasl-website) |
+| ☕ **Java coursework** | OOP and data processing (Duke University specialization) | Java | — |
+| 🎓 **DAM coursework** | Databases, Android, security, UI design | Java, SQL | — |
+| 🤖 **ML notebooks** | Regression and supervised learning experiments | Python | — |
+| 🐳 **Odoo sandbox** | Local Docker environment exploring a second ERP stack | Docker, Odoo | — |
 
 ---
 
 ## 📈 Currently
 
-- 🔧 Hardening supplier invoice OCR in Dolibarr (production readiness)
+- 📊 Learning **Power BI**
+- ❄️ Learning **Snowflake** fundamentals
+- 🔗 Learning **Denodo** fundamentals
 - ☁️ **AWS Developer Associate (DVA-C02)**
-- 🇬🇧 **English B2**
+- 🇬🇧 **English B2** certification
 
 ---
 
