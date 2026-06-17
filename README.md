@@ -59,7 +59,7 @@ I'm especially interested in **data analytics**, **business intelligence**, and 
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 📄 **Supplier Invoice OCR** | Automated invoice pipeline: OCR/LLM extraction, JSON validation and ERP integration | Python, SQL, Dolibarr | 🔒 Client work · [Case study](./portfolio-case-studies/supplier-invoice-ocr/README.md) |
+| 📄 **Supplier Invoice OCR** | Automated invoice pipeline: OCR/LLM extraction, JSON validation and ERP integration | Python, SQL, Dolibarr | 🔒 Client work |
 | 📊 **A3 Export** | Accounting data export from Dolibarr to A3 Asesor — validation, fixed-width files and Excel reconciliation | PHP, SQL, ERP | 🔒 Client work |
 | 🛠️ **EqControl** | Equipment and asset management — tracking business resources and operational data | PHP, SQL, Dolibarr | 🔒 Client work |
 | 👥 **Customer Management** | Customer records, assignments, contracts and related business workflows | PHP, SQL, ERP | 🔒 Client work |
