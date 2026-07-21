@@ -16,11 +16,11 @@
 
 ## 🌱 About Me
 
-I'm finishing my **Higher Degree in Multiplatform Application Development (DAM)** in Palma de Mallorca, with practical experience building **ERP modules**, **data workflows**, **OCR automation**, and **business process integrations**.
+I recently graduated with a **Higher Degree in Multiplatform Application Development (DAM)** in Palma de Mallorca, where I gained hands-on experience building **backend systems, ERP modules, AI-powered automation, and business data integrations**.
 
-I work mostly with **SQL**, structured business data, validation pipelines, and reliable handoffs between systems — from document extraction to accounting exports and operational reporting.
+My work focuses on **backend development, REST APIs, SQL, business workflows, OCR automation, and LLM-powered applications**, building reliable systems that connect business processes with modern software.
 
-I'm especially interested in **data analytics**, **business intelligence**, and **cloud data platforms**, and I'm growing toward roles where backend engineering meets real business data.
+I'm particularly interested in **backend engineering, artificial intelligence, cloud technologies, and data platforms**, and I enjoy developing solutions where software engineering meets real business problems.
 
 ---
 
